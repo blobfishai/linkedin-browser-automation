@@ -1,0 +1,12 @@
+{
+  "endpoint": "http://127.0.0.1:9333",
+  "targetId": "COPY_THE_CHOSEN_TAB_ID",
+  "senderName": "Your Name",
+  "senderProfileUrl": "https://www.linkedin.com/in/your-profile/",
+  "body": "Your own message goes here.",
+  "cutoffDate": "2025-09-27",
+  "includeNeverMessaged": true,
+  "pauseMs": 15000,
+  "connectionsFile": "connections.json",
+  "dataDir": "data"
+}
